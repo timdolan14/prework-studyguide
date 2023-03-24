@@ -20,6 +20,5 @@ To use this Prework Study Guide, you can review the notes in each section. For s
 N/A
 
 ## License
-
 Please refer to the License in the repo
 ---
